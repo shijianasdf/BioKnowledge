@@ -3,7 +3,7 @@ miRNA-gene
 lncRNA-gene
 启动子甲基化沉默基因表达
 拷贝数变异影响基因表达
-染色质调控子：readers writers eraser chromatin remodelers lncRNA
+染色质调控子：readers writers（DNA甲基化转移酶，组蛋白甲基化转移酶，组蛋白乙酰化转移酶，） eraser（DNA去甲基化转移酶，组蛋白去乙酰化转移酶，组蛋白去甲基化转移酶） chromatin remodelers lncRNA
 拷贝数变异，基因突变
 drug-gene
 drug-disease
